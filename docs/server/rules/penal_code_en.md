@@ -377,6 +377,18 @@ Lying or distorting the truth to obtain an undue benefit and cause damage:
 - **Sentence: 120 - 200 months**
 - **Return of the goods or their equivalent value**
 
+### <a id="3.19"></a><span style="color: #0088CC">3.19 Theft of Services or Goods for Immediate Consumption</span>
+
+Benefiting from a commercial service or consuming goods provided for immediate payment while intentionally refusing to pay their value or leaving the location without paying (e.g., fueling at a gas station and fleeing the pump, unpaid consumption at a restaurant/bar, or failing to pay for transport/taxi rides).
+
+This action constitutes a crime and is punishable by:
+
+- **Criminal fine: $10,000**
+- **Sentence: 30 - 50 months**
+- **Complementary measure: Full payment of the damages to the injured party (the value of the unpaid service/goods)**
+
+*If the perpetrator uses force, threats, or a weapon to refuse payment or leave the premises, the act will be classified as <a href="#3.10">Robbery (#3.10)</a> or <a href="#3.12">Heist (#3.12)</a>.*
+
 ## <a id="4"></a><span style="color: #0088CC">CH. 4 Crimes Against Justice</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstructing an Officer</span>

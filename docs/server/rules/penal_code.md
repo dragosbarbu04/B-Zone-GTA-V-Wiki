@@ -416,6 +416,18 @@ Spunerea unor minciuni sau distorsionarea adevărului pentru a obține un folos 
 - **Sentință: 120 - 200 de luni**
 - **Returnarea bunurilor sau contravaloarea acestora**
 
+### <a id="3.19"></a><span style="color: #0088CC">3.19 Furtul de servicii sau bunuri de consum imediat</span>
+
+Fapta unei persoane de a beneficia de un serviciu comercial sau de a consuma bunuri puse la dispoziție cu plată imediată, refuzând în mod intenționat achitarea contravalorii acestora ori părăsind locația fără plată (ex: alimentarea cu combustibil la benzinărie și fuga de la pompă, consumație neachitată la restaurant/bar, nerespectarea plății curselor de transport/taxi).
+
+Această acțiune reprezintă o infracțiune și se pedepsește cu:
+
+- **Amendă penală: 10.000$**
+- **Sentință: 30 - 50 de luni**
+- **Măsură complementară: Achitarea integrală a prejudiciului către partea vătămată (contravaloarea serviciului / bunului neachitat)**
+
+*Dacă autorul folosește forța, amenințarea sau o armă pentru a refuza plata sau a părăsi perimetrul, fapta se va încadra la Tâlhărie (#3.10) sau Jaf (#3.12).*
+
 ## <a id="4"></a><span style="color: #0088CC">CAP. 4 Infracţiuni asupra justiţiei</span>
 
 ### <a id="4.1"></a><span style="color: #0088CC">4.1 Obstrucția unui ofiţer</span>
