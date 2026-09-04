@@ -178,7 +178,7 @@ Circularea cu vehiculul pe sensul opus de mers, pe benzi destinate direcției co
 - **Măsură complementară: Anularea permisului de conducere**
 
 
-## <a id="2"></a><span style="color: #0088CC">CAP. 2 Infracțiuni în Trafic</span>SSUN
+## <a id="2"></a><span style="color: #0088CC">CAP. 2 Infracțiuni în Trafic</span>
 
 ### <a id="2.1"></a><span style="color: #0088CC">2.1 Conducerea unui autovehicul neînmatriculat</span>
 
