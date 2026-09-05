@@ -834,8 +834,6 @@ Creating, militarily equipping, or joining illegal armed organizations seeking t
 - **Criminal fine: $35,000**
 - **Sentence: 120 - 200 months**
 
-*Do not combine with #8.3.*
-
 ### <a id="8.5"></a><span style="color: #0088CC">8.5 Incitement to Violence Against the Rule of Law</span>
 
 Calling for violent demonstrations, attacks on law enforcement buildings, or killing police/state representatives:

@@ -945,8 +945,6 @@ Constituirea, dotarea militară sau apartenența la organizații armate ilegale 
 - **Amendă penală: 35.000$**
 - **Sentință: 120 - 200 de luni**
 
-*A nu se cumula cu articolul #8.3 Împiedicarea activităților guvernamentale.*
-
 ### <a id="8.5"></a><span style="color: #0088CC">8.5 Incitarea la violență împotriva ordinii de drept</span>
 
 Convocarea de manifestații cu caracter violent, îndemnul explicit la atacarea clădirilor de ordine publică sau la uciderea forțelor de poliție și a reprezentanților statului.
